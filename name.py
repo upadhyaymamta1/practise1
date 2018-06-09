@@ -1,2 +1,2 @@
-nam = input('who are you? ')
+nam = input('how are you? ')
 print('welcome', nam)
