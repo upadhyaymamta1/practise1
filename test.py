@@ -1,12 +1,4 @@
-import operations as o
-import intrest as i
+import range as r
 
-# print(o.add(5,6))
-# o.add_print(3,4)
-# print(o.sub(5,1))
-# o.check_vote_age(14)
-
-
-# i.intrest(1230,4,2)
-# i.intrest(100,40,2)
-i.intrest_elif(1000,4,2)
+# yaha pr bhi ek hi no. pass karenge jiski table print karni hai
+r.table(4)
